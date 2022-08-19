@@ -16,11 +16,18 @@ enableEmoji = true
     info = ["Student", "Backend Dev"]
     avatarURL = "images/avatar.png"
     dateFormat = "January 2, 2006"
+
+    favicon_32 = "images/favicon-32x32.png"
+    favicon_16 = "images/favicon-16x16.png"
+    touchIcon = "images/apple-touch-icon.png"
+    
     since = 2022
     rtl = false
+    
     colorScheme = "dark"
     hideColorSchemeToggle = false
     maxSeeAlsoItems = 5
+    
     customCSS = []
     customSCSS = []
     customJS = []
