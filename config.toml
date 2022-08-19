@@ -10,17 +10,47 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
 [params]
-author = "Giacomo Peretti"
-description = "Giacomo Peretti's personal website"
-keywords = "blog,developer,personal,portfolio"
-info = ["Student", "Backend Dev"]
-avatarURL = "images/avatar.jpg"
-dateFormat = "January 2, 2006"
-since = 2022
-rtl = false
-colorScheme = "dark"
-hideColorSchemeToggle = false
-maxSeeAlsoItems = 5
-customCSS = []
-customSCSS = []
-customJS = []
+    author = "Giacomo Peretti"
+    description = "Giacomo Peretti's personal website"
+    keywords = "blog,developer,personal,portfolio"
+    info = ["Student", "Backend Dev"]
+    avatarURL = "images/avatar.png"
+    dateFormat = "January 2, 2006"
+    since = 2022
+    rtl = false
+    colorScheme = "dark"
+    hideColorSchemeToggle = false
+    maxSeeAlsoItems = 5
+    customCSS = []
+    customSCSS = []
+    customJS = []
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github-alt fa-2x"
+    weight = 1
+    url = "https://github.com/giack-dev/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram fa-2x"
+    weight = 2
+    url = "https://www.instagram.com/giack.peretti/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/giackdev/"
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "about/"
+[[menu.main]]
+    name = "Skills"
+    weight = 2
+    url = "skills/"
+[[menu.main]]
+    name = "Portfolio"
+    weight = 3
+    url  = "posts/"
+
