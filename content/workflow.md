@@ -28,4 +28,7 @@ Here is a list of tools and software i use for my daily work
 - LG 29" Ultrawide monitor
 - AKG K72 monitor headset or Nothing ear (1) ear buds
 
+##### This Site🌐
+I built it using [Hugo](https://gohugo.io/) and i deployed it using [Netlify](https://www.netlify.com/)
+
 
