@@ -1,3 +1,26 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://giacomoperetti.netlify.app/'
+title = 'Giacomo Peretti'
+theme = "hugo-coder"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+[params]
+author = "Giacomo Peretti"
+description = "Giacomo Peretti's personal website"
+keywords = "blog,developer,personal,portfolio"
+info = ["Student", "Backend Dev"]
+avatarURL = "images/avatar.jpg"
+dateFormat = "January 2, 2006"
+since = 2022
+rtl = false
+colorScheme = "dark"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+customJS = []
