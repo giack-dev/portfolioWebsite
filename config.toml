@@ -1,4 +1,4 @@
-baseURL = 'http://giacomoperetti.netlify.app/'
+baseURL = 'https://giacomoperetti.netlify.app/'
 title = 'Giacomo Peretti'
 theme = "hugo-coder"
 languageCode = 'en-us'
