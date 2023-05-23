@@ -46,7 +46,7 @@ enableEmoji = true
     name = "Twitter"
     icon = "fa fa-twitter fa-2x"
     weight = 3
-    url = "https://twitter.com/giackdev/"
+    url = "https://twitter.com/giackperetti/"
 
 [[menu.main]]
     name = "About"
